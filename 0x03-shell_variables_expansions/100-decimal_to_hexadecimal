@@ -1,2 +1,2 @@
 #!/bin/bash
-eport DECIMAL=$((16#$HEX))
+$((16#$OCTAL))
